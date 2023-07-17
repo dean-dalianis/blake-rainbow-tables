@@ -153,4 +153,4 @@ These files are the same as those in the rainbow_table_generator module.
 
 ## 📄 License
 
-This project is licensed under the `MIT` License. See the [LICENSE](LICENSE file for additional info.
+This project is licensed under the `MIT` License. See the [LICENSE](LICENSE) file for additional info.
