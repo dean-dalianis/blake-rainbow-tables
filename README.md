@@ -140,8 +140,8 @@ blake-rainbow-tables
 
 | File        | Summary                                                                                                                                                                                                                                                                                        |
 |-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**info.h**](rainbow_table_cracker/rainbow_table_cracker/info.h)      | Defines constants related to the creation of rainbow tables, including the number of threads, character set length, maximum password length, chain length, output path, and file name. This information can be used to control and configure the generation and storage of rainbow tables.     |
-| [**cracker.cpp**](rainbow_table_cracker/rainbow_table_cracker/cracker.cpp)  | Loads a rainbow table from a file and allows the user to input a hash value. If the hash is found in the table, the corresponding password is displayed. If not, the code performs reduce and hash operations to search for a matching chain in the table, and displays the password if found. |
+| [**info.h**](rainbow_table_cracker/info.h)      | Defines constants related to the creation of rainbow tables, including the number of threads, character set length, maximum password length, chain length, output path, and file name. This information can be used to control and configure the generation and storage of rainbow tables.     |
+| [**cracker.cpp**](rainbow_table_cracker/cracker.cpp)  | Loads a rainbow table from a file and allows the user to input a hash value. If the hash is found in the table, the corresponding password is displayed. If not, the code performs reduce and hash operations to search for a matching chain in the table, and displays the password if found. |
 
 #### hash
 
